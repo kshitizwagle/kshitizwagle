@@ -1,24 +1,45 @@
-# 💻 Tech Stack
-### **Programming Languages**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+# Hi there, I'm Kshitiz Wagle 👋
 
-### **Frameworks and Libraries**
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+> Backend developer who builds systems that are reliable, scalable, and a little fun to work on.
 
-### **Authentication and APIs**
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+I spend my time designing APIs, shaping infrastructure, and automating the boring parts. My code is clean, maintainable, and rarely surprises you at 3 AM (unless I've left a sarcastic comment 😄).
 
-### **Message Brokers**
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+## 🚀 What I Do
 
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+I focus on making complex systems feel simple - from scalable services to smooth data workflows and architectures that handle real-world load. Good engineering, to me, is equal parts precision, creativity, and wit.
 
-### **Version Control and Collaboration Tools**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+**Recently:**
+- 🔄 Merged multiple microservices into a single monorepo 
+- 📡 Introduced async messaging to make services communicate cleanly at scale
+- 🤖 Built automation tools from AWS Lambda functions to CI/CD pipelines
+- ⚡ Reduced manual effort and improved team productivity through smart tooling
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kshitizwagle&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 🛠️ Tech Stack
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+```python
+backend_skills = {
+    "languages": ["Python"],
+    "frameworks": ["FastAPI"],
+    "architecture": ["Async Programming", "Microservices", "Monorepo"],
+    "messaging": ["RabbitMQ", "aio-pika", "FastStream"],
+    "cloud": ["AWS Lambda", "Cloud Infrastructure"],
+    "automation": ["CI/CD Pipelines", "Infrastructure as Code"],
+    "mindset": ["Clean Code", "Scalability", "Maintainability"]
+}
+```
+
+## 🎯 Philosophy
+
+- **Curious and eager to learn** - I don't shy away from exploring new tools, technologies, or approaches
+- **Push beyond comfort zones** - Always looking to expand beyond familiar territory
+- **Bend tools to fit problems** - Love exploring the edges of what's possible
+- **Turn debugging nightmares into one-liner jokes** - Because humor makes everything better
+
+## 🌐 Find Me Online
+
+- 💼 Portfolio: [kshitizwagle.com.np](https://kshitizwagle.com.np)
+- 📧 Let's connect and build something amazing together!
+
+---
+
+*"I bring a curious and playful mindset to my work, occasionally turning complexity into simplicity with a dash of wit."*
