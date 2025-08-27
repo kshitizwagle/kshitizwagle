@@ -18,13 +18,35 @@ I focus on making complex systems feel simple - from scalable services to smooth
 
 ```python
 backend_skills = {
-    "languages": ["Python"],
-    "frameworks": ["FastAPI"],
-    "architecture": ["Async Programming", "Microservices", "Monorepo"],
-    "messaging": ["RabbitMQ", "aio-pika", "FastStream"],
-    "cloud": ["AWS Lambda", "Cloud Infrastructure"],
-    "automation": ["CI/CD Pipelines", "Infrastructure as Code"],
-    "mindset": ["Clean Code", "Scalability", "Maintainability"]
+    "languages": [
+        "Python"
+    ],
+    "frameworks": [
+        "FastAPI"
+    ],
+    "architecture": [
+        "Async Programming",
+        "Microservices",
+        "Monorepo"
+    ],
+    "messaging": [
+        "RabbitMQ",
+        "aio-pika",
+        "FastStream"
+    ],
+    "cloud": [
+        "AWS Lambda",
+        "Cloud Infrastructure"
+    ],
+    "automation": [
+        "CI/CD Pipelines",
+        "Infrastructure as Code"
+    ],
+    "mindset": [
+        "Clean Code",
+        "Scalability",
+        "Maintainability"
+    ]
 }
 ```
 
