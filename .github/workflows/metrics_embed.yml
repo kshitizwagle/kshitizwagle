@@ -1,0 +1,42 @@
+name: Metrics
+on:
+  schedule: [{cron: "0 0 * * *"}] # Runs daily at midnight
+  workflow_dispatch:               # Allows manual trigger
+  push: {branches: ["master", "main"]}
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Private Stats Metrics
+        uses: lowlighter/metrics@v3.34
+        with:
+          # Your Personal Access Token (with 'repo' scope)
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # Automatically uses your GitHub username
+          user: ${{ github.repository_owner }}
+          
+          # Core Configuration
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Kathmandu
+          
+          # Private Data Handling
+          # This pulls your email from the secret to scan private commits
+          commits_authoring: ${{ secrets.METRICS_EMAIL }} 
+          
+          # Language Plugin (Derived from private and public code)
+          plugin_languages: yes
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          
+          # Optional: Detailed Habits (shows your peak engineering hours)
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          
+          # Optional: Activity Line (shows your commit frequency)
+          plugin_lines: yes
