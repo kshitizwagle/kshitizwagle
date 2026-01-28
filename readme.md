@@ -65,6 +65,3 @@ backend_skills = {
 ---
 
 *"I bring a curious and playful mindset to my work, occasionally turning complexity into simplicity with a dash of wit."*
-
-
-![Metrics](github-metrics.svg)
