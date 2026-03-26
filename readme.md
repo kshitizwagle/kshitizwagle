@@ -1,57 +1,55 @@
-# Hi, I'm Kshitiz Wagle 👋
+# Hi, I'm Kshitiz Wagle
 
-Backend engineer from **Lalitpur, Nepal** automating the world. I spend most of my time writing code, shaping infrastructure, and making systems behave. I like solving complex problems with simple solutions, and I believe good engineering is equal parts precision and creativity.
+Backend engineer from Lalitpur, Nepal. Fueled by coffee, driven by stack traces.
 
-Currently **Senior Software Engineer** at **[Rippey AI](https://rippey.ai)**, designing and building scalable Python services with FastAPI, async architectures, and message-driven systems.
+🔗 [www.kshitizwagle.com.np](https://www.kshitizwagle.com.np) · [LinkedIn](https://www.linkedin.com/in/kshitizwagle)
 
-## 🚀 About Me
+---
 
-I began my journey on GitHub with coursework and small mobile/desktop projects (Java, C/C++), then gradually moved into scripting and automation with Python. Over the years I built bots and automation tools, progressing into backend systems and infrastructure.
+## How I Got Here
 
-**Today I primarily focus on:**
+I started on GitHub with coursework and small mobile/desktop projects in Java and C/C++. Got curious about scripting, picked up Python, and never looked back. Built bots, automation tools, and gradually worked my way into backend systems and infrastructure. Somewhere along the way I went from "why is this broken" to "I should build the thing that makes sure this never breaks."
 
-- Designing and building scalable Python services (FastAPI)
-- Async architectures and message-driven systems (RabbitMQ)
-- Containerized deployments (Docker) and reproducible data pipelines
-- CI/CD automation and infrastructure excellence
-- Making systems reliable, maintainable, and easy to operate
+Most of my active contributions are to private repositories; public repos here are representative samples.
 
-Most of my active contributions are to private repositories; my public repos on GitHub are representative samples.
+## Skills
 
-## 💻 Tech Stack
+Python · Java · JavaScript · FastAPI · Flask · Docker · RabbitMQ · GitHub Actions · Linux · Shell scripting · SQL · NoSQL · Async architectures
 
-### Core Technologies
+## The Tinkering Years
 
-- **Languages**: Python, Core Java, JavaScript, SQL / NoSQL
-- **Backend Frameworks**: FastAPI, Flask
-- **Architecture**: Asynchronous architectures, message-driven systems
+I grew up skipping school to watch PC repairs, broke open laptops, built a Hackintosh, jailbroke iPhones, and wrote tiny HTML widgets for them. I distro-hopped through Linux until I settled down. My first install was Ubuntu, where I uninstalled Python and learned what that does. Basically broke things until I learned how they worked.
 
-### Infrastructure & Tooling
+## Home Server
 
-- **Message Queues**: RabbitMQ
-- **Containerization**: Docker & Dockerfiles
-- **CI/CD**: GitHub Actions
-- **Systems**: Linux & Shell scripting
-- **Project Management**: JIRA
+I run a home server on my old college laptop with a broken screen. It runs Ubuntu Server and hosts:
 
-### Practices
+- **Jellyfin** — media streaming
+- **Sonarr / Radarr / Prowlarr** — media automation
+- **Navidrome** — music streaming
+- **Immich** — photo backup
 
-- Documentation
-- Performance tuning
-- Process automation
-- Testing & observability
-- Refactoring & code quality
-- Debugging & troubleshooting
+New stuff always in the works, though I've spent more time building and maintaining it than actually consuming anything on it.
 
-## 🎓 Education
+## Beyond Code
 
-**Bachelor of Arts in Computer Application**  
-Tribhuvan University, Nepal (2019 - 2024)
+- Cold brew is my favorite, though at home I always reach for a dark roast. I enjoy exploring different brew methods, roasts, and cafes.
+- I unwind with story-driven RPG games. I've been playing Genshin Impact since 2020, and the last game I finished was Ghost of Tsushima.
 
-## 🔗 Connect With Me
+## Currently
 
-- 💻 **Website**: [kshitizwagle.com.np](https://kshitizwagle.com.np)
-- 👔 **LinkedIn**: [linkedin.com/in/kshitizwagle](https://www.linkedin.com/in/kshitizwagle)
-- 📧 **Location**: Lalitpur, Nepal
+- ☕ Drinking: dark roast, always
+- 🎮 Playing: Genshin Impact
+- 🛠️ Tinkering: home server expansions
+- 💻 Building: scalable backends at [Rippey AI](https://rippey.ai)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kshitizwagle&show_icons=true&theme=aura&hide_border=true&bg_color=15141b&title_color=a277ff&icon_color=a277ff&text_color=bdbdbd" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kshitizwagle&theme=aura-dark&hide_border=true&background=15141B&ring=A277FF&fire=A277FF&currStreakLabel=A277FF" alt="GitHub Streak" />
+</p>
 
 ---
