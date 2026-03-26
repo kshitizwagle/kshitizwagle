@@ -10,7 +10,7 @@ Backend engineer from Lalitpur, Nepal. Fueled by coffee, driven by stack traces.
 
 I started on GitHub with coursework and small mobile/desktop projects in Java and C/C++. Got curious about scripting, picked up Python, and never looked back. Built bots, automation tools, and gradually worked my way into backend systems and infrastructure. Somewhere along the way I went from "why is this broken" to "I should build the thing that makes sure this never breaks."
 
-Most of my active contributions are to private repositories; public repos here are representative samples.
+Most of my active contributions are to private repositories; public repos here are representative samples and courseworks.
 
 ## Skills
 
