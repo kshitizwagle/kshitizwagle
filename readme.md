@@ -46,9 +46,6 @@ New stuff always in the works, though I've spent more time building and maintain
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kshitizwagle&show_icons=true&theme=aura&hide_border=true&bg_color=15141b&title_color=a277ff&icon_color=a277ff&text_color=bdbdbd" alt="GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kshitizwagle&theme=aura-dark&hide_border=true&background=15141B&ring=A277FF&fire=A277FF&currStreakLabel=A277FF" alt="GitHub Streak" />
 </p>
 
