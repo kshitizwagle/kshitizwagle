@@ -1,6 +1,6 @@
 # Hi, I'm Kshitiz Wagle
 
-Backend engineer from Lalitpur, Nepal. Fueled by coffee, driven by stack traces.
+Backend engineer & AI systems from Lalitpur, Nepal.
 
 🔗 [www.kshitizwagle.com.np](https://www.kshitizwagle.com.np) · [LinkedIn](https://www.linkedin.com/in/kshitizwagle)
 
@@ -14,7 +14,7 @@ Most of my active contributions are to private repositories; public repos here a
 
 ## Skills
 
-Python · Java · JavaScript · FastAPI · Flask · Docker · RabbitMQ · GitHub Actions · Linux · Shell scripting · SQL · NoSQL · Async architectures
+Python · JavaScript · FastAPI · FastStream · aio-pika · WebSockets · MongoDB · Redis · RabbitMQ · Docker · Kubernetes · AWS Lambda · GitHub Actions · Linux · Shell scripting · Multi-agent orchestration · LLM APIs · RAG · Structured output · Document processing · OCR
 
 ## The Tinkering Years
 
@@ -28,20 +28,22 @@ I run a home server on my old college laptop with a broken screen. It runs Ubunt
 - **Sonarr / Radarr / Prowlarr** — media automation
 - **Navidrome** — music streaming
 - **Immich** — photo backup
+- **Caddy** — reverse proxy, behind a Cloudflare Tunnel with Authelia for auth
 
 New stuff always in the works, though I've spent more time building and maintaining it than actually consuming anything on it.
 
 ## Beyond Code
 
-- Cold brew is my favorite, though at home I always reach for a dark roast. I enjoy exploring different brew methods, roasts, and cafes.
-- I unwind with story-driven RPG games. I've been playing Genshin Impact since 2020, and the last game I finished was Ghost of Tsushima.
+- Cold brew when it's hot, americano when I want something warm, pour-over when I'm not in a rush. Dark roast always. Also just like finding new cafes — good enough excuse to leave the house.
+- I unwind with story-driven RPGs. Finished Ghost of Tsushima — the world and the silence. Genshin when I want something to do with my hands. Fate/Grand Order for the story — somehow convinced me to read a novel's worth of lore.
 
 ## Currently
 
 - ☕ Drinking: dark roast, always
-- 🎮 Playing: Genshin Impact
+- 🎮 Playing: Genshin Impact / Fate/Grand Order
 - 🛠️ Tinkering: home server expansions
-- 💻 Building: scalable backends at [Rippey AI](https://rippey.ai)
+- 🏋️ Habit that actually stuck: gym
+- 💻 Building: AI systems and scalable backends at [Rippey AI](https://rippey.ai) as Senior Software Engineer
 
 ---
 
