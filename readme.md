@@ -35,7 +35,7 @@ New stuff always in the works, though I've spent more time building and maintain
 ## Beyond Code
 
 - Cold brew when it's hot, americano when I want something warm, pour-over when I'm not in a rush. Dark roast always. Also just like finding new cafes — good enough excuse to leave the house.
-- I unwind with story-driven RPGs. Finished Ghost of Tsushima — the world and the silence. Genshin when I want something to do with my hands. Fate/Grand Order for the story — somehow convinced me to read a novel's worth of lore.
+- I unwind with story-driven RPGs. Genshin when I want something to do with my hands. Fate/Grand Order for the story — somehow convinced me to read a novel's worth of lore.
 
 ## Currently
 
